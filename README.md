@@ -1,8 +1,7 @@
----
-home: true
-heroImage: /logo.png
-heroText: 前端数据结构和算法系统练习
-tagline: 系统的提高数据结构和算法水平
-actionText: 起步
-actionLink: /start/
----
+# 前言
+
+目前对前端的要求越来越高，数据结构和算法这些`基础知识`越来越被强调。
+
+在这里记录LeeCode的刷题过程。
+
+目的是为了系统的提高数据结构和算法水平。
