@@ -1,4 +1,4 @@
-# 前言
+# 前端数据结构和算法系统学习
 
 目前对前端的要求越来越高，数据结构和算法这些`基础知识`越来越被强调。
 
@@ -10,7 +10,7 @@
 
 ### 链表篇
 
-- [反转链表](/leecode/linkedList/reverseLinkedList)
+- [反转链表、区间翻转、两两交换链表中的节点、K 个一组翻转链表](/leecode/linkedList/reverseLinkedList)
 
 ### Hash
 
