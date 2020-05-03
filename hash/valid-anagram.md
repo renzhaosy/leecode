@@ -2,7 +2,8 @@
 
 > 来源： [LeeCode 第 242 题](https://leetcode-cn.com/problems/valid-anagram)
 > 难度： 中等
-> 给定两个字符串 s 和 t ，编写一个函数来判断 t 是否是 s 的字母异位词。
+
+给定两个字符串 s 和 t ，编写一个函数来判断 t 是否是 s 的字母异位词。
 
 示例  1:
 
